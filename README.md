@@ -11,4 +11,4 @@
 - Все данные загоняются в один датасет по всем вагонам с его характеристиками
 - В качестве модели для предсказания выбран CatBoost, впоследствии после обучения так же были профильтрованы признаки по значимости
 
-[ссылка на презентацию](<https://docs.google.com/presentation/d/1Z8ecWfbVYVgbaBHK-iax1Kt28XbmV2U0/edit?usp=drive_link&ouid=118214310211945705934&rtpof=true&sd=true)
+[ссылка на презентацию](https://docs.google.com/presentation/d/1Z8ecWfbVYVgbaBHK-iax1Kt28XbmV2U0/edit?usp=drive_link&ouid=118214310211945705934&rtpof=true&sd=true)
